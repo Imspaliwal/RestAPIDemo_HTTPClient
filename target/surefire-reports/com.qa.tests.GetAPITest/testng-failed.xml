@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.qa.tests.GetAPITest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.qa.tests.GetAPITest">
+        <methods>
+          <include name="getAPITest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.tests.GetAPITest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.qa.tests.GetAPITest] -->
